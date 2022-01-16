@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+h1{
+    margin-top: 0;
+    font-family: Sacramento, cursive;
+    font-size: 7em;
+    position: relative;
+    top: 30px;
+    margin-bottom: 0;
+    color: #66BFBF;
+    line-height: 1.8;
+}
+.biggg{
+    font-size: 3em;
+    position: relative;
+    font-family: Sacramento, cursive;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    color: #11999E;
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+}
+
+.contact-me{
+    padding-bottom: 80px;
+}
+.top-container{
+    background-color: rgba(184, 238, 229, 0.637);
+    text-align: center;
+    width: auto;
+    position: relative;
+}
+.top_cloud{
+    display: inline-block;
+    width: 220px;
+    display: flex;
+    position: relative;
+    left: 900px;
+    top: 30px
+}
+.bottom_cloud{
+    display: inline-block;
+    width: 240px;
+    display: flex;
+    position: relative;
+    left: 390px;
+    top: -50px;
+}
+.middle-container{
+    text-align: center;
+}
+.bottom-container{
+    padding-top: 50px;
+    height: 100px;
+    background-color: #66BFBF;
+    text-align: center;
+    font-size: 150%;
+}
+.coding{
+    border-radius: 100%;
+    float: left;
+    margin-right: 20px;
+}
+.gaming{
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.skill-row{
+    text-align: left;
+    line-height: 1.5;
+    font-size: large;
+}
+.footer-text{
+    color: white;
+}
+.btn{
+    color: white;
+    background-color: #66BFBF;
+    font-size: 1.3rem;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+.footer-link{
+    color:#11999E;
+}
+.GIT{
+    color: #11999E;
+    font-size: 30px;
+    font-family:'Lucida handwriting',  sans-serif;
+}
+.GIT-h3{
+    color: #11999E;
+    font-size: 20px;
+    font-family:'Lucida handwriting',  sans-serif;
+    padding-top: 1.5rem;
+}
+.GIT-p{
+    font-size: 20px;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+hr{
+    border-style: dotted;
+    width: 5%;
+    border-width: 18px;
+    border-top: 0 ;
+    border-color: #EAF6F6;
+    margin-top: 3rem;
+    margin-bottom: 3rem;  
+}
+h2{
+    font-family: 'Lobster', cursive;
+    font-size: 2.5rem;
+}
+.profile{
+    position: relative;
+    top:2rem;
+    margin-bottom: 4rem;
+}
+.profile-p{
+    font-size: large;
+}
